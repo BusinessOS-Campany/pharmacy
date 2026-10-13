@@ -1,0 +1,11 @@
+{
+  "slug": "pharmacy",
+  "name": "Pharmacy Management System",
+  "nameAr": "نظام إدارة الصيدليات",
+  "description": "Drug inventory, prescriptions, products and pharmacy billing.",
+  "descriptionAr": "المخزون الدوائي والوصفات والمنتجات وفواتير الصيدلية.",
+  "icon": "pill",
+  "category": "health",
+  "version": "1.0.0",
+  "discoverable": true
+}
